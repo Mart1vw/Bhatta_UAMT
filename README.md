@@ -3,6 +3,6 @@ Welcome to this repository ! It aims at giving any interested researcher the too
 
 All of the main elements required to train the network are in the "main.py" function as one might expect. Please note that this is a working version and that some minor changes were made in our private repository but not here (mainly code cleaning) for administrative reasons.
 
-The dataset we used is available [here](http://www.developingconnectome.org/data-release/second-data-release/) and is available to anyone willing to set-up an account.
+The dataset we used is available [here](http://www.developingconnectome.org/data-release/second-data-release/) and is available to anyone willing to set-up an account. Running the program will require to use a GPU (16+ Gb of VRAM if possible) and change all of the paths in the arguments.
 
 If you have any questions regarding the code or the article, please feel free to contact me at martin.wrbk@gmail.com.
