@@ -5,4 +5,4 @@ All of the main elements required to train the network are in the "main.py" func
 
 The dataset we used is available [here](http://www.developingconnectome.org/data-release/second-data-release/) to anyone willing to set-up an account. Running the program will require to use a GPU (16+ Gb of VRAM if possible) and change all of the paths in the arguments.
 
-If you have any questions regarding the code or the article, please feel free to contact me at martin.wrbk [at] gmail.com.
+If you have any questions regarding the code or the article, please feel free to contact me (email on my homepage).
